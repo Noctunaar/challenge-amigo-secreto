@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Noctunaar">
+      <a href="https://github.com/Noctunaar" target="_blank">
         <img loading="lazy" src="https://github.com/user-attachments/assets/c14c07c2-bc0b-4dd3-9d09-1b3232ef56b7" width="115">
         <br><sub>Bruna Luíza</sub>
       </a>
