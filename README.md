@@ -3,13 +3,13 @@
 <img src= "https://github.com/user-attachments/assets/bb62aa6e-a100-46a6-83a6-1c93078b14c0">
 <h2>Descrição do projeto</h2>
 <p>Este desafio foi proposto para estudantes de programação do programa ONE, da Oracle em parceria com a Alura. Sua finalidade é desenvolver as habilidades em lógica de programação e aplicar de forma prática os conhecimentos adquiridos. Nesse projeto é possível incluir nomes de amigos em uma lista e fazer um sorteio simples e divertido!</p>
-<h2>💻 Tecnologias utilizadas</h2>
+<h2>Tecnologias utilizadas 💻</h2>
 
 - `Javascript`
 - `HTML`
 - `CSS`
 
-<h2>🤓 Desenvolvedora</h2>
+<h2>Desenvolvedora 🤓</h2>
 <table>
   <tr>
     <td align="center">
